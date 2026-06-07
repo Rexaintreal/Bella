@@ -1,0 +1,19 @@
+# KiCad
+schematics/.history/
+schematics/bella-backups/
+schematics/*.kicad_prl
+*.bak
+*.lck
+*-backups/
+
+# Assets (large files, generated outputs)
+assets/
+
+# Firmware build artifacts
+firmware/.pio/
+firmware/build/
+firmware/.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
